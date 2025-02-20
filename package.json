@@ -1,0 +1,22 @@
+{
+  "name": "aidboxtestexample",
+  "version": "1.0.0",
+  "description": "test task for Health Samurai",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotMolotovich/AidboxTestExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BotMolotovich/AidboxTestExample/issues"
+  },
+  "homepage": "https://github.com/BotMolotovich/AidboxTestExample#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4"
+  }
+}
